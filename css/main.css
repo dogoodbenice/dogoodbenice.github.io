@@ -28,7 +28,7 @@ a:hover {
 a:active {
     color: red;
 }
-h1 {
+h1, h2, h3 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
